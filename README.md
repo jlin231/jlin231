@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello I'm Jonathan Lin a full-stack web developer. 
+
+I am a former systems engineer and mechanical engineering graduate with a full-stack web development bootcamp under my belt, I am well-equipped to solve complex problems with a team-oriented approach. Proficient in programming languages such as JavaScript, Python, and Java, and frameworks including React, Node.js, and Django, I am committed to delivering high-quality and efficient solutions that meet client needs. With a passion for learning and expanding my skillset, I am excited to collaborate on your next project and make a positive impact. Let's connect and bring your ideas to life!
